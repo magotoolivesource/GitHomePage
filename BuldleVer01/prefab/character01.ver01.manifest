@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2175533646
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 126ed933cd7e7408733a747b44634907
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c14c144446a0d5e7633ca1d79f4d7b01
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/03_AssetBundle/Prefabs/Character01/Character03.prefab
+- Assets/03_AssetBundle/Prefabs/Character01/Character04.prefab
+- Assets/03_AssetBundle/Prefabs/Character01/Character01.prefab
+- Assets/03_AssetBundle/Prefabs/Character01/Character02.prefab
+Dependencies:
+- C:/MyProjects/MYUnityProject/VisualStudioSource/Study_AllProject_GIT_VSTS/EX_AssetBundle/Assets/StreamingAssets/BuldleVer01/character/bundle01

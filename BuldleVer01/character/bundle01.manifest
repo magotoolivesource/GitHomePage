@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3728671347
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b17697d7f153802a526488d2e63be481
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/03_AssetBundle/Bundle01/001.png
+- Assets/03_AssetBundle/Bundle01/004.png
+- Assets/03_AssetBundle/Bundle01/002.png
+- Assets/03_AssetBundle/Bundle01/003.png
+Dependencies: []

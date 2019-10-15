@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1114687871
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: character/bundle01
+      Dependencies: {}
+    Info_1:
+      Name: character/bundle02
+      Dependencies: {}
+    Info_2:
+      Name: ui/green01
+      Dependencies: {}
+    Info_3:
+      Name: ui/yellow01
+      Dependencies: {}
+    Info_4:
+      Name: prefab/character01.ver01
+      Dependencies:
+        Dependency_0: character/bundle01
